@@ -1,5 +1,5 @@
 import React from "react";
 
 export const LoginPage = () => {
-  return <div className="black">LoginPage</div>;
+  return <div className="white">LoginPage</div>;
 };
