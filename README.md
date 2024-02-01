@@ -1,4 +1,4 @@
-# Portal académico
+# 👨🏻‍🎓 | Portal académico | 👩🏻‍🎓
 
 <br>
 En este desafío realizaremos un proyecto de software encaminado a un sitio web escolar, para así, lograr mejorar nuestras habilidades técnicas como desarrolladores <strong>BACKEND</strong> y <strong>FRONTEND</strong>.
